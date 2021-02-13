@@ -1,0 +1,4 @@
+{
+    "name": "Boiler Switch Bot",
+    "dockerFile": "../Dockerfile",
+}
